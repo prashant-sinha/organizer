@@ -1,0 +1,25 @@
+{
+  "name": "organizer",
+  "version": "1.0.0",
+  "description": "An Organizer - for any computer world object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant-sinha/organizer.git"
+  },
+  "keywords": [
+    "file",
+    "organizer",
+    "song",
+    "organizer"
+  ],
+  "author": "Prashant Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant-sinha/organizer/issues"
+  },
+  "homepage": "https://github.com/prashant-sinha/organizer#readme"
+}
